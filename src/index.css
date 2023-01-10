@@ -1,4 +1,11 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
 body {
+  /* background-color: rgb(35, 34, 34); */
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +17,14 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+.title1{
+  color: blue;
+  background-color: green;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+  font-family: "Sofia", sans-serif;
+  
 }
